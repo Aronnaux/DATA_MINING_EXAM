@@ -1,8 +1,8 @@
 CONSEGNA PROGETTO PER L'ESAME DI DATA MINING
 
-STUDENTE: Leonardo Trisolini
-MATRICOLA: 739676
-DOCENTE: Donato Malerba
+STUDENTE: Lxxxxxxxx Txxxxxxxx
+MATRICOLA: xxxxxx
+DOCENTE: Dxxxxx Mxxxxxx
 CORSO DI LAUREA: Data Science
 DATASET: https://archive.ics.uci.edu/ml/datasets/online+retail
 
