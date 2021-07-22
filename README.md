@@ -1,10 +1,15 @@
 CONSEGNA PROGETTO PER L'ESAME DI DATA MINING
 
 STUDENTE: Lxxxxxxxx Txxxxxxxx
+
 MATRICOLA: xxxxxx
+
 DOCENTE: Dxxxxx Mxxxxxx
+
 CORSO DI LAUREA: Data Science
+
 DATASET: https://archive.ics.uci.edu/ml/datasets/online+retail
+
 
 La cartella inviata contiene 6 file in formato PDF, che rappresentano la versione stampata dei notebook utilizzati per lo svolgimento dell'analisi. 
 
